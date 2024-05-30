@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navaneeth K.B</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://navaneeth-kb.github.io/navaneethkb/](https://navaneeth-kb.github.io/navaneethkb/)
 
